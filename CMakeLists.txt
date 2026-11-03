@@ -12,6 +12,7 @@ rosidl_generate_interfaces(${PROJECT_NAME}
   "msg/OccupancyGrid3D.msg"
   "msg/Plan.msg"
   "msg/PositionVelocityTarget.msg"
+  "msg/TrajectoryPreview.msg"
   "msg/MotionSegment.msg"
   "msg/TimedTrajectory.msg"
   "msg/TrajectoryStatus.msg"
